@@ -2,6 +2,8 @@
 layout: default
 ---
 
+---
+
 ## Abstract
 
 Simulation-based learning has enabled robust policies for contact-rich tasks, yet typical success rates (~80%) remain below industrial standards and limit policy chaining. We present Refinery, a framework that improves policy robustness across initial conditions via Bayesian Optimization-guided fine-tuning and GMM-based sampling for deployment. Refinery boosts mean success rates by 10.98% over 100 2-part assemblies, achieving 91.51% in simulation and comparable real-world performance. It also enables zero-shot chaining of fine-tuned policies, successfully assembling up to 8 parts without multi-step training.
