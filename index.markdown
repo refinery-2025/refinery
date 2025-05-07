@@ -4,7 +4,7 @@ layout: default
 
 ## Refinery: Active Fine-tuning and Deployment-time Optimization for Contact-Rich Policies
 
-[PDF](assets/refinery_paper.pdf) | [Code (Coming Soon!)](https://refinery-2025.github.io/refinery/) | [Video](assets/refinery_5min.mov)
+[PDF](https://openreview.net/attachment?id=zuOKFYcfUT&name=pdf) | [Code (Coming Soon!)](https://refinery-2025.github.io/refinery/) 
 
 <img src="assets/teaser.pdf" alt="Teaser Image" width="100%" style="margin-bottom:2em"/>
 
