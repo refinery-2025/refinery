@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[PDF](https://openreview.net/attachment?id=zuOKFYcfUT&name=pdf) | [Code (Coming Soon!)](https://refinery-2025.github.io/refinery/) 
+<!-- [PDF](assets/refinery_paper.pdf) | [Code (Coming Soon!)](https://refinery-2025.github.io/refinery/) | [Video](assets/refinery_5min.mov) -->
 
 <img src="assets/teaser.pdf" alt="Teaser Image" width="100%" style="margin-bottom:2em"/>
 
